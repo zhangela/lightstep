@@ -1,6 +1,6 @@
-# LightStep take home
+# LightStep Take Home
 
-##HOW TO RUN:
+## HOW TO RUN:
 
 1. cd into lightstep directory
 2. (optional) start virtual env: virtualenv -p /usr/local/bin/python3 .
